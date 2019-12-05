@@ -14,7 +14,6 @@ window.addEventListener("load", function() {
               <li>Skills: ${json[index].skills}</li>
             </ul>
             <img class="avatar" src=${json[index].picture} </img>
-
           </div>
         `;
       }
